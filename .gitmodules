@@ -1,0 +1,12 @@
+[submodule "geotools"]
+	path = geotools
+	url = https://github.com/opengeo/geotools.git
+[submodule "geoserver"]
+	path = geoserver
+	url = https://github.com/opengeo/geoserver.git
+[submodule "geowebcache"]
+	path = geowebcache
+	url = https://github.com/opengeo/geowebcache.git
+[submodule "geoserver-exts"]
+	path = geoserver-exts
+	url = https://github.com/opengeo/geoserver-exts.git
